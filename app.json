@@ -9,6 +9,10 @@
     "TEST_URL": {
       "required": true
     },
-    "TEST_ENV_1": "production"
+    "NEERAJ_1": {
+      "required": true
+    }
+    "TEST_ENV_1": "production",
+    "NEERAJ_1": "production"
   }
 }

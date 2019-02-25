@@ -9,6 +9,6 @@
     "TEST_URL": {
       "required": true
     },
-    "TEST_ENV_1": "production"
+    "TEST_URL": "production"
   }
 }
